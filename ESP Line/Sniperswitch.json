@@ -1,0 +1,9 @@
+{
+  "StartAddress": "0x0000000000010000",
+  "EndAddress": "0x00007FFFFFFEFFFF",
+  "ScanPattern": "3F 00 00 80 3E 00 00 00 00 04 00 00 00 00 00 80 3F 00 00 20 41 00 00 34 42 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 80 3F",
+  "PatchBytes": "1A 00 00 80 1A 00 00 00 00 04 00 00 00 00 00 80 3F 00 00 20 41 00 00 34 42 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 80 3F",
+  "ProcessName": "HD-Player",
+  "UseRelativeScan": true,
+  "Readable": true
+}
